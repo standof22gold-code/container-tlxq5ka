@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "standof22gold-code",
+  "repo": "container-tlxq5ka",
+  "name": "standof22gold-code",
+  "email": "standof22gold@gmail.com",
+}
